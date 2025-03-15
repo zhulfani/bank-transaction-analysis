@@ -34,9 +34,10 @@ Fitur Utama:
 ## **📂 Struktur Folder**  
 ```
 📁 bank-transaction-analysis
+│── 📄 LICENSE
+│── 📄 README.md 
 │── 📄 classification_bank_transactions.ipynb
-│── 📄 clustering_bank_transactions.ipynb
-│── 📄 README.md         
+│── 📄 clustering_bank_transactions.ipynb        
 │── 📄 requirements.txt  
 ```
 
