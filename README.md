@@ -11,13 +11,10 @@ Dataset yang digunakan berisi informasi transaksi dengan berbagai fitur seperti 
 ## **📂 Struktur Folder**  
 ```
 📁 bank-transaction-analysis
-│── 📁 notebooks         # Jupyter Notebooks untuk eksplorasi & pemodelan
-│── 📁 data              # Dataset (jika kecil, jika besar pakai link)
-│── 📁 src               # Skrip Python tambahan
-│── 📁 results           # Hasil model & visualisasi
-│── 📄 README.md         # Dokumentasi proyek
-│── 📄 requirements.txt  # Library yang digunakan
-│── 📄 .gitignore        # File yang diabaikan Git
+│── 📄 classification_bank_transactions.ipynb
+│── 📄 clustering_bank_transactions.ipynb
+│── 📄 README.md         
+│── 📄 requirements.txt  
 ```
 
 ---
