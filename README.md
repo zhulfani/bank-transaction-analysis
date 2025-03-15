@@ -1,8 +1,8 @@
-# **Bank Transaction Analysis (BMLP)**
+# **Bank Transaction Analysis **
 📊 **Clustering & Klasifikasi Data Transaksi Bank**  
 
 ## **📌 Deskripsi Proyek**  
-Proyek ini bertujuan untuk melakukan **clustering** dan **klasifikasi** pada data transaksi bank guna mencari **pola unik dalam transaksi**. Clustering digunakan untuk mengelompokkan transaksi berdasarkan pola tertentu, sedangkan klasifikasi dilakukan menggunakan dua model, yaitu **K-Nearest Neighbors (KNN) dan Random Forest (RF)**, untuk dibandingkan performanya.  
+Proyek ini bertujuan untuk melakukan **clustering** dan **klasifikasi** pada data transaksi bank guna mencari **pola unik dalam transaksi**. Clustering digunakan untuk mengelompokkan transaksi berdasarkan pola tertentu dengan menggunakan model K-means, sedangkan klasifikasi dilakukan menggunakan dua model, yaitu **K-Nearest Neighbors (KNN) dan Random Forest (RF)**, untuk dibandingkan performanya.  
 
 Dataset yang digunakan berisi informasi transaksi dengan berbagai fitur seperti jumlah transaksi, kategori, dan waktu transaksi.  
 
