@@ -1,5 +1,3 @@
-# bank-transaction-analysis
-
 # **Bank Transaction Analysis (BMLP)**
 📊 **Clustering & Klasifikasi Data Transaksi Bank**  
 
@@ -54,9 +52,16 @@ Contoh visualisasi hasil clustering dan perbandingan model klasifikasi:
    ```sh
    jupyter notebook
    ```
-4. Buka file **`[Clustering]_Submission_Akhir_BMLP_Zhulfani_Faisal_Adam.ipynb`** untuk clustering dan **`[Klasifikasi]_Submission_Akhir_BMLP_Zhulfani_Faisal_Adam.ipynb`** untuk klasifikasi, lalu jalankan selnya.  
+4. Buka file **`clustering_bank_transaction.ipynb`** untuk clustering dan **`classification_bank_transactions.ipynb`** untuk klasifikasi, lalu jalankan selnya.  
 
 ---
 
 ## **📥 Dataset**  
-📌 Jika dataset terlalu besar, kamu bisa mendownloadnya di si
+📌 Kamu bisa mendownloadnya di sini:  
+🔗 https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection/data
+
+---
+
+## **✍ Kontribusi & Lisensi**  
+💡 Silakan fork dan kontribusi! Proyek ini menggunakan lisensi **MIT**.  
+
