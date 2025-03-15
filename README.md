@@ -62,13 +62,13 @@ Fitur Utama:
        - AccountBalance: $4,542 rata-rata, cukup tinggi, menunjukkan mereka memiliki saldo yang relatif stabil.
        - LoginAttempts: Rata-rata 1.12, menunjukkan pengguna jarang mengalami kesulitan login.
        - Kesimpulan: Klaster ini mencerminkan pensiunan dengan saldo cukup tinggi, melakukan transaksi menengah, dan jarang mengalami masalah login.
-   2. Cluster 2: "Kelompok Mahasiswa (Student)"
+   2. Cluster 1: "Kelompok Mahasiswa (Student)"
        - TransactionAmount: Rata-rata transaksi $313.22, sedikit lebih tinggi dari Cluster 0.
        - CustomerAge: Rata-rata 23 tahun, dengan rentang usia 18-28 tahun, cocok dengan profil mahasiswa.
        - AccountBalance: $1,570, menunjukkan saldo cenderung lebih rendah dibanding klaster lain.
        - LoginAttempts: Rata-rata 1.11, menunjukkan mereka cukup terbiasa dengan sistem.
        - Kesimpulan: Klaster ini mencerminkan mahasiswa dengan saldo rendah, tetapi masih melakukan transaksi aktif.
-   3. Cluster 3: "Kelompok Profesional Muda (Engineer)"
+   3. Cluster 2: "Kelompok Profesional Muda (Engineer)"
        - TransactionAmount: Rata-rata transaksi $289.04, sedikit lebih rendah dari klaster lain.
        - CustomerAge: Rata-rata 42 tahun, dengan rentang 26-60 tahun, menunjukkan profesional muda hingga paruh baya.
        - AccountBalance: $5,486, lebih tinggi dari mahasiswa dan pensiunan, menunjukkan stabilitas finansial lebih baik.
