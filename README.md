@@ -168,7 +168,7 @@ Fitur Utama:
 ## **📦 Cara Menjalankan Proyek**  
 1. Clone repo ini:  
    ```sh
-   git clone https://github.com/username/bank-transaction-analysis.git
+   git clone https://github.com/zhulfani/bank-transaction-analysis.git
    cd bank-transaction-analysis
    ```
 2. Install dependencies:  
